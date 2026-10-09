@@ -6,12 +6,6 @@
     "status": "draft",
     "photos": [
       {
-        "id": "8716a183-60ce-4761-812b-d350fae17dc6",
-        "path": "assets/uploads/albums/albums-925e53ae-197a-4dec-b627-ecfc786e36f9/8716a183-60ce-4761-812b-d350fae17dc6.webp",
-        "alt": "STAGING TEST alt",
-        "caption": "STAGING TEST caption"
-      },
-      {
         "id": "27449265-420c-42c3-b41e-f9a054c78434",
         "path": "assets/uploads/albums/albums-925e53ae-197a-4dec-b627-ecfc786e36f9/27449265-420c-42c3-b41e-f9a054c78434.webp",
         "alt": "",
