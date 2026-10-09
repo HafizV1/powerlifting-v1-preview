@@ -3,6 +3,12 @@
     "title": "STAGING TEST 07ac0d61 document",
     "description": "",
     "status": "draft",
-    "id": "recorddocuments-9da9bea6-da8d-4e99-8a3a-4b8e35d087b3"
+    "id": "recorddocuments-9da9bea6-da8d-4e99-8a3a-4b8e35d087b3",
+    "file": {
+      "path": "assets/uploads/recordDocuments/recorddocuments-9da9bea6-da8d-4e99-8a3a-4b8e35d087b3/aa796b79-9f72-44ce-8049-970d9eeb5d00.csv",
+      "name": "staging.csv",
+      "mime": "text/csv",
+      "size": 27
+    }
   }
 ]
