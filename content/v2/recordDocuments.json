@@ -3,6 +3,12 @@
     "title": "STAGING TEST a88d7864 document",
     "description": "",
     "status": "draft",
-    "id": "recorddocuments-ee067072-ef72-4372-8b50-ae5d05fad671"
+    "id": "recorddocuments-ee067072-ef72-4372-8b50-ae5d05fad671",
+    "file": {
+      "path": "assets/uploads/recordDocuments/recorddocuments-ee067072-ef72-4372-8b50-ae5d05fad671/1617b4c6-45f8-4e38-821d-cd09b67a48dd.csv",
+      "name": "staging.csv",
+      "mime": "text/csv",
+      "size": 27
+    }
   }
 ]
