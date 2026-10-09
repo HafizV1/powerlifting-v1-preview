@@ -12,5 +12,13 @@
       "mime": "application/pdf",
       "size": 614
     }
+  },
+  {
+    "title": "STAGING TEST 07ac0d61 protocol-bench",
+    "competitionId": "competitions-001a94df-dfc2-4bce-9b36-2cfffbfde947",
+    "sport": "Benç-press",
+    "description": "",
+    "status": "draft",
+    "id": "protocols-3333aed2-d727-4680-b64d-7475a39f0515"
   }
 ]
