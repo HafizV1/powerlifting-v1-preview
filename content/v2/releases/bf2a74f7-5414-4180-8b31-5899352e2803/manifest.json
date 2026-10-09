@@ -1,0 +1,67 @@
+{
+  "version": 1,
+  "sourceRevision": "ab383fd60daa284c1c39d64b56f4dbbbd403df80",
+  "contentRevision": "c7601b55159dc0e4e300ba3116a1249b2c90c051",
+  "changedKinds": [
+    "news",
+    "competitions",
+    "protocols",
+    "albums",
+    "recordDocuments"
+  ],
+  "files": [
+    {
+      "path": "idmancilar.html",
+      "before": "03fa443b8acf10b4a7045ef11eaebc83c22e5d5d1ba1bf7884cdc010d3dc76ce",
+      "after": "c21adb23cb23ee2402984eecbe8bd8620e72d0a199e06403455baded064e9042"
+    },
+    {
+      "path": "neticeler.html",
+      "before": "0a5d8f0a664a587917d19c8a24f82ea65beb4b17d910c42066ae8030370c7c88",
+      "after": "9e8d31d72c9b885fb5441dfa62da1f1033a277458050bd5b5145fab7d78e9c3c"
+    },
+    {
+      "path": "qalereya.html",
+      "before": null,
+      "after": "8d09e8c800cda4aef6c3f0e87631bbd4b62ea06755f5b037a225e8db8e546c3c"
+    },
+    {
+      "path": "rekord-qaydalari.html",
+      "before": "77fed1b3fe7a9356c3e0866c57fbc682e01c3351365380388b9df9eef9a1b8af",
+      "after": "99eb36324baad35ce26e8f0a0a06ac50b554eb7efcb4d8f478bd32af3ee4f89b"
+    },
+    {
+      "path": "xeberler.html",
+      "before": "c5edbc7659fd1d0ea4e44bcbb711017b311d2b953635769d16dc769e9f339e93",
+      "after": "513365a755299f2aaeb3ea2c37eade8593b5c048cd799121ff59981b03e0d7b7"
+    },
+    {
+      "path": "yaris-competitions-staging-59548985-bc66-49ab-b9b0-dfc66c02a356.html",
+      "before": null,
+      "after": "7bdb966b49f2c2b7e19882f54c1b55988da0527e121dc826744c7a64aa3228d8"
+    },
+    {
+      "path": "yarislar.html",
+      "before": "822a0144cb69237eff335e0c7085f6a6c0241a712219cdde45365b1ca4c13e42",
+      "after": "17c23e13122670710df6392f445d7eeed68c042479ad729ccfedc90b73d23ca0"
+    }
+  ],
+  "imports": [
+    {
+      "protocol": "protocols-staging-59548985-bc66-49ab-b9b0-dfc66c02a356",
+      "sport": "Pauerliftinq",
+      "count": 1,
+      "sourceHash": "6151dc140aacfdbd5c44adc7909eed2a09bb8a6bf76d2a93b7f24077cc100592",
+      "actor": {
+        "id": "controlled-staging-test",
+        "login": "Synthetic integration validation"
+      }
+    }
+  ],
+  "athletesBefore": 208,
+  "athletesAfter": 209,
+  "resultsBefore": 351,
+  "resultsAfter": 352,
+  "publicPublishing": false,
+  "bundleHash": "6afc9509bb0133eac4ad203704a3d9b3814e51f7e4ccdffc992b9d861cdef3f9"
+}

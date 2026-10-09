@@ -48,5 +48,17 @@
     "status": "published",
     "sourceUrl": "kubok-2025-haqqinda.html",
     "badge": "KEÇİRİLİB"
+  },
+  {
+    "id": "competitions-staging-59548985-bc66-49ab-b9b0-dfc66c02a356",
+    "name": "STAGING TEST — V2 INTEGRATION 59548985-bc66-49ab-b9b0-dfc66c02a356",
+    "startDate": "2099-01-01",
+    "endDate": "2099-01-01",
+    "sports": [
+      "Pauerliftinq"
+    ],
+    "venue": "STAGING TEST ONLY",
+    "description": "Synthetic fixture. Not an official competition.",
+    "status": "published"
   }
 ]

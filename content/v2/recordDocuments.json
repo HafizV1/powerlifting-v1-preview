@@ -1,1 +1,12 @@
-[]
+[
+  {
+    "id": "recorddocuments-staging-59548985-bc66-49ab-b9b0-dfc66c02a356",
+    "title": "STAGING TEST — NOT OFFICIAL DOCUMENT",
+    "status": "published",
+    "description": "Synthetic fixture only",
+    "file": {
+      "path": "assets/uploads/recordDocuments/recorddocuments-staging-59548985-bc66-49ab-b9b0-dfc66c02a356/test-59548985-bc66-49ab-b9b0-dfc66c02a356.pdf",
+      "name": "staging.pdf"
+    }
+  }
+]

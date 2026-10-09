@@ -1,1 +1,96 @@
-[]
+[
+  {
+    "id": "protocols-staging-59548985-bc66-49ab-b9b0-dfc66c02a356",
+    "title": "STAGING TEST protocol",
+    "competitionId": "competitions-staging-59548985-bc66-49ab-b9b0-dfc66c02a356",
+    "sport": "Pauerliftinq",
+    "status": "published",
+    "file": {
+      "path": "assets/uploads/protocols/protocols-staging-59548985-bc66-49ab-b9b0-dfc66c02a356/test-59548985-bc66-49ab-b9b0-dfc66c02a356.xlsx",
+      "name": "staging.xlsx"
+    },
+    "importReview": {
+      "draft": {
+        "version": 1,
+        "context": {
+          "competitionId": "competitions-staging-59548985-bc66-49ab-b9b0-dfc66c02a356",
+          "competition": "STAGING TEST — V2 INTEGRATION 59548985-bc66-49ab-b9b0-dfc66c02a356",
+          "year": 2099,
+          "date": "2099-01-01",
+          "sport": "Pauerliftinq"
+        },
+        "rows": [
+          {
+            "index": 0,
+            "result": {
+              "name": "STAGING TEST New Athlete",
+              "birth": "",
+              "gender": "Kişilər",
+              "age": "Böyüklər",
+              "weightclass": "83 kq",
+              "bodyweight": null,
+              "place": "1",
+              "club": "",
+              "bestSq": 100,
+              "bestBp": 75,
+              "bestDl": 125,
+              "total": 300,
+              "gl": null,
+              "equipment": ""
+            },
+            "source": {
+              "table": "xl/worksheets/sheet1.xml",
+              "row": 2
+            },
+            "match": {
+              "type": "new",
+              "candidates": []
+            },
+            "warnings": [
+              "match:new"
+            ],
+            "possibleRecords": [],
+            "decision": null
+          }
+        ],
+        "status": "review-required"
+      },
+      "sourceHash": "6151dc140aacfdbd5c44adc7909eed2a09bb8a6bf76d2a93b7f24077cc100592",
+      "baseline": "ab383fd60daa284c1c39d64b56f4dbbbd403df80",
+      "hash": "74e13b59373834b1dc5383b24dbce3cf1ece83dc546ac38b520dc6018f388d8c",
+      "approved": {
+        "rows": [
+          {
+            "sourceIndex": 0,
+            "result": {
+              "name": "STAGING TEST New Athlete",
+              "birth": "",
+              "gender": "Kişilər",
+              "age": "Böyüklər",
+              "weightclass": "83 kq",
+              "bodyweight": null,
+              "place": "1",
+              "club": "",
+              "bestSq": 100,
+              "bestBp": 75,
+              "bestDl": 125,
+              "total": 300,
+              "gl": null,
+              "equipment": ""
+            },
+            "athleteIndex": null,
+            "newAthlete": true,
+            "note": "Synthetic staging-only source checked"
+          }
+        ],
+        "actor": {
+          "id": "controlled-staging-test",
+          "login": "Synthetic integration validation"
+        },
+        "sourceHash": "6151dc140aacfdbd5c44adc7909eed2a09bb8a6bf76d2a93b7f24077cc100592",
+        "reviewHash": "74e13b59373834b1dc5383b24dbce3cf1ece83dc546ac38b520dc6018f388d8c",
+        "at": "2026-10-09T09:51:10.248Z"
+      }
+    }
+  }
+]

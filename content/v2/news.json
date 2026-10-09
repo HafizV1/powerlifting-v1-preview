@@ -12,5 +12,11 @@
     "eventDate": "3–13 dekabr 2026",
     "eventVenue": "Kranjska Gora, Sloveniya",
     "sourceUrl": "xeberler.html"
+  },
+  {
+    "id": "news-staging-59548985-bc66-49ab-b9b0-dfc66c02a356",
+    "title": "STAGING TEST — NOT OFFICIAL NEWS 59548985-bc66-49ab-b9b0-dfc66c02a356",
+    "body": "Synthetic integration validation. Must never publish.",
+    "status": "published"
   }
 ]
