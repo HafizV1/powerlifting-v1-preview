@@ -5,6 +5,12 @@
     "sport": "Pauerliftinq",
     "description": "",
     "status": "draft",
-    "id": "protocols-e3c4fada-18c1-42e7-a5a9-153c171a779c"
+    "id": "protocols-e3c4fada-18c1-42e7-a5a9-153c171a779c",
+    "file": {
+      "path": "assets/uploads/protocols/protocols-e3c4fada-18c1-42e7-a5a9-153c171a779c/0449a681-0cd9-466b-b2d1-d3c7bcb71d85.pdf",
+      "name": "staging-test.pdf",
+      "mime": "application/pdf",
+      "size": 614
+    }
   }
 ]
