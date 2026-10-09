@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "title": "STAGING TEST a88d7864 album",
+    "competitionId": "competitions-bc1ad134-db5d-415c-9505-c41d1f6f3081",
+    "description": "",
+    "status": "draft",
+    "photos": [],
+    "id": "albums-dd4e9a70-baf9-4449-8f66-df8ad70f27a2"
+  }
+]
