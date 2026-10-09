@@ -1,0 +1,509 @@
+{
+  "version": 1,
+  "sourceRepository": "HafizV1/powerlifting.az",
+  "liveSHA": "e54f21ef3f7ad2005724f690d33e80c7bf6d5b6a",
+  "codeSHA": "bca98dc58e1a7bc33faea55f668e1b90d1a21d54",
+  "contentSHA": "ab383fd60daa284c1c39d64b56f4dbbbd403df80",
+  "productionPublishingEnabled": false,
+  "productionWorkerConfigured": false,
+  "stagingWorkerChanged": false,
+  "stagingRepository": "HafizV1/powerlifting-v1-preview",
+  "stagingAdmin": "https://powerlifting-admin-v2-staging.powerlifting-aze-482.workers.dev",
+  "publicPageChanges": [],
+  "athleteCount": 208,
+  "historicalResultCount": 351,
+  "publicFiles": [
+    {
+      "path": "assets/css/mobile.css",
+      "gitBlob": "2e839d93cc8063a71a8c0c6beb38685a39381ae6",
+      "sha256": "e6fbd6abd2549f73b24e6dbf1f39f3375c35a4cbba80465baec6fd73bc11aba9"
+    },
+    {
+      "path": "assets/images/004571e400c1054319fd.png",
+      "gitBlob": "b322a777c54c024cb4b5cdc75cf6c424db6055f8",
+      "sha256": "004571e400c1054319fdf9708fff3be0349cade800d4a93d9226fc0d957b5823"
+    },
+    {
+      "path": "assets/images/20a9b9fce72257ac4f50.png",
+      "gitBlob": "fd27431f8bd0de5864293a42ad2285fb99fd1f15",
+      "sha256": "20a9b9fce72257ac4f5093668143b4aa0fac5e85cd09405874911811af598cb7"
+    },
+    {
+      "path": "assets/images/2713846ed7f61cbbf5ef.png",
+      "gitBlob": "cdac63dbde143bac191c2d50a9c93842ffbaf9f2",
+      "sha256": "2713846ed7f61cbbf5efcc8dd25f68b1eadc38c54fa535db0a4f1dfd558b4d2a"
+    },
+    {
+      "path": "assets/images/48941e79598e96e90255.png",
+      "gitBlob": "1721d002061a5eb681f8ebb0177da2aca5665516",
+      "sha256": "48941e79598e96e90255a0ab7d844447aa553820eea3a5ace9696e725564322a"
+    },
+    {
+      "path": "assets/images/4bd920c492d555012ca0.png",
+      "gitBlob": "bf7d38b1ada24c5f3a025629aa98995a94e64623",
+      "sha256": "4bd920c492d555012ca0b214d9f640fbac1ddc98db134227d04b9110a6f7875e"
+    },
+    {
+      "path": "assets/images/7b420b31a224b68fa194.png",
+      "gitBlob": "317f146bb4755d244a3b850e9a77508eb19a0eb8",
+      "sha256": "7b420b31a224b68fa194507c58f39c5e2a03fa20d28818426e56f8afa1d5bb9b"
+    },
+    {
+      "path": "assets/images/830be7825283498efcfd.png",
+      "gitBlob": "711808c72bfe98432c32c55fae98fd2e49572b7c",
+      "sha256": "830be7825283498efcfdfa5f53dc6e3cc97fb325f9d30094619c07fbf4c91fed"
+    },
+    {
+      "path": "assets/images/9f11e1691e678ba0db00.png",
+      "gitBlob": "0fbb7576f26fbdd60491936be60b63d307ee1fe8",
+      "sha256": "9f11e1691e678ba0db00466e5676e28d1dc665f1843a6c6d357cdd53b89d8f2b"
+    },
+    {
+      "path": "assets/images/a88d6f4f7bcfba91bb8d.jpg",
+      "gitBlob": "8268182d795485ffc79883535ff5a3a78355b597",
+      "sha256": "a88d6f4f7bcfba91bb8d33baae078ae0a07ff90acfb162c47de581511ad39239"
+    },
+    {
+      "path": "assets/images/ca2b826dcaffba018389.jpg",
+      "gitBlob": "72332f13ca9718f32abc9c93d38c943ecb39319c",
+      "sha256": "ca2b826dcaffba01838993fa70bfe117c3e4b1327244b276843a444c9d637971"
+    },
+    {
+      "path": "assets/js/mobile.js",
+      "gitBlob": "bcd133419a3cebe336677b94f013ddb96070f0b7",
+      "sha256": "97009e4393068839cdcd120e666315f5334c71b40e141b6a9369ff6ff64e9825"
+    },
+    {
+      "path": "beynelxalq.html",
+      "gitBlob": "a289cedb42188925b4664a4d0f496797e5bd8966",
+      "sha256": "3b518fe07408cefe32a0b3fab8dc2aaa7c90870a52be049c3f091e9e4425ab95"
+    },
+    {
+      "path": "bolme.html",
+      "gitBlob": "a228ea605ef59ffee4de94916c1df611604bcb29",
+      "sha256": "a81182c163c7682d59c357c438b9736371b4495365c9d83cb0f7d73380a0943f"
+    },
+    {
+      "path": "cempionat-2026-haqqinda.html",
+      "gitBlob": "8ccc24f9d7a25b99187059eb69c5608e059acf51",
+      "sha256": "15eae5beb3a2bd2ef8911811c095c5cab799ed0782bf5067573bcf50eb711626"
+    },
+    {
+      "path": "cempionat-2026.jpg",
+      "gitBlob": "8268182d795485ffc79883535ff5a3a78355b597",
+      "sha256": "a88d6f4f7bcfba91bb8d33baae078ae0a07ff90acfb162c47de581511ad39239"
+    },
+    {
+      "path": "dereceler.html",
+      "gitBlob": "faec9a898bc0aa8524499a24ab8f9788094e519d",
+      "sha256": "60921029ac7c777239667b7d90089674ca14a7725ff8f7b0675cb2257529f35a"
+    },
+    {
+      "path": "elaqe.html",
+      "gitBlob": "479644f6a123060728499008df277b234ef5da82",
+      "sha256": "ee44b91d3bd2853ef5b01195e3cf45ce29ea3004d1201f448166630c7cafaf9a"
+    },
+    {
+      "path": "fealiyyet.html",
+      "gitBlob": "c4d6c44c280d4bb59f42368bf7953724de091bcd",
+      "sha256": "95d49ec81c8f79f139aba25716eb0d5dc874b238f38d9e32ae791b799a32dcbc"
+    },
+    {
+      "path": "hakimlik.html",
+      "gitBlob": "c4a2ae0f890194b50f14f22fb1324c0dc6e0d8c7",
+      "sha256": "c9c03222e324eacbecaa1c20bd192bcb7832d9e6ff9ba21a4d50b2e671a8c6bd"
+    },
+    {
+      "path": "idmanchilar.html",
+      "gitBlob": "af511b6d3a4c6fae25579353829fc341bb1525a7",
+      "sha256": "293970f8169c2b4a1b4ac23af730cdb78b51102b2d457268a844128902c20061"
+    },
+    {
+      "path": "idmancilar.html",
+      "gitBlob": "b911f7d89191db57a38de846d137cf06d9fd3624",
+      "sha256": "03fa443b8acf10b4a7045ef11eaebc83c22e5d5d1ba1bf7884cdc010d3dc76ce"
+    },
+    {
+      "path": "index.html",
+      "gitBlob": "7ff0999d51636c13b711f3e9a3b1e971d072c718",
+      "sha256": "66c9a64fe2f633d585cd5d9f472317c38fc53a31611c53847cb0d15b215c2cdd"
+    },
+    {
+      "path": "kubok-2025-haqqinda.html",
+      "gitBlob": "1d4c817e25d7aafc9b03b9db413dda0d16ff8804",
+      "sha256": "c77146fd5817ef71a032aff0e37f1a382d0587198d3bea1dd78b769a9f0f877d"
+    },
+    {
+      "path": "kubok-2025.jpg",
+      "gitBlob": "72332f13ca9718f32abc9c93d38c943ecb39319c",
+      "sha256": "ca2b826dcaffba01838993fa70bfe117c3e4b1327244b276843a444c9d637971"
+    },
+    {
+      "path": "kubok-2026-haqqinda.html",
+      "gitBlob": "4281bf3de71678c9778952afc4ab2941ee212989",
+      "sha256": "5ef2d712f1cf479e4a819c0c5e3a8144261a7e7b7feda7b9209f551e79a20359"
+    },
+    {
+      "path": "kubok-2026.png",
+      "gitBlob": "317f146bb4755d244a3b850e9a77508eb19a0eb8",
+      "sha256": "7b420b31a224b68fa194507c58f39c5e2a03fa20d28818426e56f8afa1d5bb9b"
+    },
+    {
+      "path": "logo.png",
+      "gitBlob": "bf7d38b1ada24c5f3a025629aa98995a94e64623",
+      "sha256": "4bd920c492d555012ca0b214d9f640fbac1ddc98db134227d04b9110a6f7875e"
+    },
+    {
+      "path": "milli-komanda.html",
+      "gitBlob": "f9f2a9d2a0603bfe1725fe7e6644a0fd511e6613",
+      "sha256": "ee066874521baf4f551926c99282aeccbd3fc26baa31ac184e56e4e7d6eb3a3f"
+    },
+    {
+      "path": "neticeler.html",
+      "gitBlob": "acd90b3755a46e879ae98ca409814d7111f768e3",
+      "sha256": "0a5d8f0a664a587917d19c8a24f82ea65beb4b17d910c42066ae8030370c7c88"
+    },
+    {
+      "path": "qaydalar.html",
+      "gitBlob": "434dc630c21bceda7d8055ff746e7930c07eeeef",
+      "sha256": "dc34e02f624922450a03710205d3b81def58ca06158508d801dbe17c6d46ccf3"
+    },
+    {
+      "path": "qerarlar.html",
+      "gitBlob": "21fcce49c4d8739f2ffe812cf85572cfb2c2bf75",
+      "sha256": "ae022fefcfcf4fde45531a3150a79661bf10a661a1d6416631814f4fb45ebe25"
+    },
+    {
+      "path": "rehberlik.html",
+      "gitBlob": "9c0575c03a032502bbe85f514fc47ea0d4109183",
+      "sha256": "a23e24d9faab793aacb6665218d1894262ce5c353497454109e030111bf7b398"
+    },
+    {
+      "path": "rekord-qaydalari.html",
+      "gitBlob": "ecd5f03b1874337144fbbf74f3136f8dae46c036",
+      "sha256": "77fed1b3fe7a9356c3e0866c57fbc682e01c3351365380388b9df9eef9a1b8af"
+    },
+    {
+      "path": "rekord-standartlari.html",
+      "gitBlob": "b4a2ae921f99ea638f6a7556e762c86955d65975",
+      "sha256": "b514b3279e619c48369f250024a855ed1f28f50a6622b759a5bed7bd17523ead"
+    },
+    {
+      "path": "rekordlar.html",
+      "gitBlob": "8e66e7a0d33b6e311131f3009f9e369e5b29a768",
+      "sha256": "0d6996077591ddc993b60a014607fad797c2f1352ee939f35c1cff6d21168b61"
+    },
+    {
+      "path": "senedler.html",
+      "gitBlob": "b7d80ed9b7d9930826c5a242465123fb4ab1ae90",
+      "sha256": "70a9c831c03141a38c48a5079e7db03bd60efab31dbd7b32e948702dd488f2b1"
+    },
+    {
+      "path": "tarixce.html",
+      "gitBlob": "8eda882c089021a760fc320edbd31947f404e182",
+      "sha256": "7d0efc97b62fcee73356335e2941dd8cb64425ec1fd92e4b14ff36b6ee9eada1"
+    },
+    {
+      "path": "xeberler.html",
+      "gitBlob": "cbeeb70737a4c7412c8e32a121d87418b952c7f6",
+      "sha256": "c5edbc7659fd1d0ea4e44bcbb711017b311d2b953635769d16dc769e9f339e93"
+    },
+    {
+      "path": "yarislar.html",
+      "gitBlob": "8b99969517f8fca137c7d048d5c10e29a66d6c87",
+      "sha256": "822a0144cb69237eff335e0c7085f6a6c0241a712219cdde45365b1ca4c13e42"
+    },
+    {
+      "path": "İPF Texniki Qaydalar Kitabı 2026 Azərbaycan Dili.pdf",
+      "gitBlob": "1b874f7e87eabe9cf31b70901b84ce3663cc91cb",
+      "sha256": "039fc25d7880e0f6141c702ad759977542f1b33dc36698d967dd00852cd7eb55"
+    }
+  ],
+  "integrationChanges": [
+    {
+      "status": "A",
+      "path": "admin/.gitignore"
+    },
+    {
+      "status": "A",
+      "path": "admin/README.md"
+    },
+    {
+      "status": "A",
+      "path": "admin/docs/automatic-staging.md"
+    },
+    {
+      "status": "A",
+      "path": "admin/docs/browser-deploy/README.md"
+    },
+    {
+      "status": "A",
+      "path": "admin/docs/browser-deploy/worker.mjs"
+    },
+    {
+      "status": "A",
+      "path": "admin/docs/e2e-testing.md"
+    },
+    {
+      "status": "A",
+      "path": "admin/docs/final-production-candidate.md"
+    },
+    {
+      "status": "A",
+      "path": "admin/docs/previews/dashboard-desktop.png"
+    },
+    {
+      "status": "A",
+      "path": "admin/docs/previews/dashboard-mobile.png"
+    },
+    {
+      "status": "A",
+      "path": "admin/docs/previews/news-editor-mobile.png"
+    },
+    {
+      "status": "A",
+      "path": "admin/docs/production-integration.md"
+    },
+    {
+      "status": "A",
+      "path": "admin/docs/staging.md"
+    },
+    {
+      "status": "A",
+      "path": "admin/docs/validation.md"
+    },
+    {
+      "status": "A",
+      "path": "admin/package-lock.json"
+    },
+    {
+      "status": "A",
+      "path": "admin/package.json"
+    },
+    {
+      "status": "A",
+      "path": "admin/public/admin.css"
+    },
+    {
+      "status": "A",
+      "path": "admin/public/admin.js"
+    },
+    {
+      "status": "A",
+      "path": "admin/public/e2e-fixtures.js"
+    },
+    {
+      "status": "A",
+      "path": "admin/public/e2e.html"
+    },
+    {
+      "status": "A",
+      "path": "admin/public/e2e.js"
+    },
+    {
+      "status": "A",
+      "path": "admin/public/imports.html"
+    },
+    {
+      "status": "A",
+      "path": "admin/public/imports.js"
+    },
+    {
+      "status": "A",
+      "path": "admin/public/index.html"
+    },
+    {
+      "status": "A",
+      "path": "admin/scripts/browser-worker-entry.mjs"
+    },
+    {
+      "status": "A",
+      "path": "admin/scripts/build-browser-worker.mjs"
+    },
+    {
+      "status": "A",
+      "path": "admin/scripts/configure-staging.py"
+    },
+    {
+      "status": "A",
+      "path": "admin/scripts/deploy-staging.mjs"
+    },
+    {
+      "status": "A",
+      "path": "admin/scripts/export-site.mjs"
+    },
+    {
+      "status": "A",
+      "path": "admin/scripts/import-v1.py"
+    },
+    {
+      "status": "A",
+      "path": "admin/scripts/local-server.mjs"
+    },
+    {
+      "status": "A",
+      "path": "admin/scripts/prepare-production-candidate.mjs"
+    },
+    {
+      "status": "A",
+      "path": "admin/scripts/prepare-release.mjs"
+    },
+    {
+      "status": "A",
+      "path": "admin/scripts/verify-staging.mjs"
+    },
+    {
+      "status": "A",
+      "path": "admin/src/github.mjs"
+    },
+    {
+      "status": "A",
+      "path": "admin/src/import/baseline.mjs"
+    },
+    {
+      "status": "A",
+      "path": "admin/src/import/extract.mjs"
+    },
+    {
+      "status": "A",
+      "path": "admin/src/import/review.mjs"
+    },
+    {
+      "status": "A",
+      "path": "admin/src/release.mjs"
+    },
+    {
+      "status": "A",
+      "path": "admin/src/render-v1.mjs"
+    },
+    {
+      "status": "A",
+      "path": "admin/src/security.mjs"
+    },
+    {
+      "status": "A",
+      "path": "admin/src/staging-test.mjs"
+    },
+    {
+      "status": "A",
+      "path": "admin/src/validation.mjs"
+    },
+    {
+      "status": "A",
+      "path": "admin/src/worker.mjs"
+    },
+    {
+      "status": "A",
+      "path": "admin/tests/backend.test.mjs"
+    },
+    {
+      "status": "A",
+      "path": "admin/tests/browser-deploy.test.mjs"
+    },
+    {
+      "status": "A",
+      "path": "admin/tests/browser.py"
+    },
+    {
+      "status": "A",
+      "path": "admin/tests/e2e-browser-server.mjs"
+    },
+    {
+      "status": "A",
+      "path": "admin/tests/e2e-browser.py"
+    },
+    {
+      "status": "A",
+      "path": "admin/tests/fixtures/protocols.mjs"
+    },
+    {
+      "status": "A",
+      "path": "admin/tests/github.test.mjs"
+    },
+    {
+      "status": "A",
+      "path": "admin/tests/import-browser.py"
+    },
+    {
+      "status": "A",
+      "path": "admin/tests/import-release.test.mjs"
+    },
+    {
+      "status": "A",
+      "path": "admin/tests/mock-github.mjs"
+    },
+    {
+      "status": "A",
+      "path": "admin/tests/preserve-v1.test.mjs"
+    },
+    {
+      "status": "A",
+      "path": "admin/tests/render.test.mjs"
+    },
+    {
+      "status": "A",
+      "path": "admin/tests/setup_staging_test.py"
+    },
+    {
+      "status": "A",
+      "path": "admin/tests/staging-e2e.test.mjs"
+    },
+    {
+      "status": "A",
+      "path": "admin/tests/v1-files.json"
+    },
+    {
+      "status": "A",
+      "path": "admin/wrangler.browser.toml"
+    },
+    {
+      "status": "A",
+      "path": "admin/wrangler.toml"
+    },
+    {
+      "status": "A",
+      "path": "content/v2/albums.json"
+    },
+    {
+      "status": "A",
+      "path": "content/v2/competitions.json"
+    },
+    {
+      "status": "A",
+      "path": "content/v2/news.json"
+    },
+    {
+      "status": "A",
+      "path": "content/v2/protocols.json"
+    },
+    {
+      "status": "A",
+      "path": "content/v2/recordDocuments.json"
+    },
+    {
+      "status": "A",
+      "path": "content/v2/records.json"
+    }
+  ],
+  "releaseManifest": {
+    "version": 1,
+    "sourceRevision": "e54f21ef3f7ad2005724f690d33e80c7bf6d5b6a",
+    "contentRevision": "ab383fd60daa284c1c39d64b56f4dbbbd403df80",
+    "changedKinds": [],
+    "files": [],
+    "imports": [],
+    "athletesBefore": 208,
+    "athletesAfter": 208,
+    "resultsBefore": 351,
+    "resultsAfter": 351,
+    "publicPublishing": false,
+    "bundleHash": "2d29f7415532c65755d6e77c8648c62e4a48bff01d5f98050350a7c5cda6c585"
+  },
+  "rollback": {
+    "sourceCommit": "e54f21ef3f7ad2005724f690d33e80c7bf6d5b6a",
+    "publicPageBackupsRequired": [],
+    "existingSafeguards": "admin/src/release.mjs prepareRollback verifies manifest/current/backup hashes; no publishing endpoint",
+    "futureIntegrationRollback": "Prepare a reviewed revert of the integration merge; no merge or rollback execution is authorized."
+  },
+  "bundleHash": "2a352757351ac8f462793a384fac6c70346dc89e1722d31701a7f334a8141fc8"
+}
