@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "title": "STAGING TEST 07ac0d61 protocol-powerlifting",
+    "competitionId": "competitions-001a94df-dfc2-4bce-9b36-2cfffbfde947",
+    "sport": "Pauerliftinq",
+    "description": "",
+    "status": "draft",
+    "id": "protocols-e3c4fada-18c1-42e7-a5a9-153c171a779c"
+  }
+]
