@@ -5,10 +5,10 @@
     "status": "draft",
     "id": "recorddocuments-ee067072-ef72-4372-8b50-ae5d05fad671",
     "file": {
-      "path": "assets/uploads/recordDocuments/recorddocuments-ee067072-ef72-4372-8b50-ae5d05fad671/1617b4c6-45f8-4e38-821d-cd09b67a48dd.csv",
-      "name": "staging.csv",
-      "mime": "text/csv",
-      "size": 27
+      "path": "assets/uploads/recordDocuments/recorddocuments-ee067072-ef72-4372-8b50-ae5d05fad671/89753c42-0e51-4181-af46-1ab48fe0e404.pdf",
+      "name": "staging-test.pdf",
+      "mime": "application/pdf",
+      "size": 614
     }
   }
 ]
