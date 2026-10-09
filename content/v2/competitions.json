@@ -48,5 +48,20 @@
     "status": "published",
     "sourceUrl": "kubok-2025-haqqinda.html",
     "badge": "KEÇİRİLİB"
+  },
+  {
+    "name": "STAGING TEST 07ac0d61 competition",
+    "startDate": "2099-01-01",
+    "endDate": "2099-01-02",
+    "dateText": "",
+    "venue": "STAGING TEST venue",
+    "description": "STAGING TEST ONLY",
+    "sports": [
+      "Pauerliftinq",
+      "Benç-press"
+    ],
+    "badge": "",
+    "status": "draft",
+    "id": "competitions-001a94df-dfc2-4bce-9b36-2cfffbfde947"
   }
 ]
