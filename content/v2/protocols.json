@@ -19,6 +19,12 @@
     "sport": "Benç-press",
     "description": "",
     "status": "draft",
-    "id": "protocols-9c5aceae-8636-471e-8330-adc3264fb8d2"
+    "id": "protocols-9c5aceae-8636-471e-8330-adc3264fb8d2",
+    "file": {
+      "path": "assets/uploads/protocols/protocols-9c5aceae-8636-471e-8330-adc3264fb8d2/55ca7973-ee8a-4b4d-b6b1-55586a6f88bf.xlsx",
+      "name": "staging-test.xlsx",
+      "mime": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+      "size": 1403
+    }
   }
 ]
